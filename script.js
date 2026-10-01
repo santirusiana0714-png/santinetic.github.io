@@ -10,7 +10,7 @@ const films = [
         title: "TITANS RUN",
         type: "ADVERTISEMENT",
         description:
-            "An advertisement I was tasked to create to hype everyone up for Titans Run 2026.",
+            "An advertisement I was tasked to create to hype everyone up for Titans Run 2026. My roles included concepting, directing, and editing this project",
         video:
             "https://www.youtube.com/embed/TLa01YFuQ68"
     },
@@ -21,7 +21,7 @@ const films = [
         title: "FATHER'S DAY BOOTH",
         type: "ADVERTISEMENT",
         description:
-            "A passion project created to help attract customers to our Father's Day booth.",
+            "A passion project created to help attract customers to our Father's Day booth. I storyboarded, directed and edited this project.",
         video:
             "https://www.youtube.com/embed/VR6jy9dLznk"
     },
@@ -32,7 +32,7 @@ const films = [
         title: "HOMECOMING 2026",
         type: "EVENT RECAP",
         description:
-            "A recap of the events from Springdale and Southcrest's Homecoming 2026.",
+            "A recap of the events from Springdale and Southcrest's Homecoming 2026. I filmed during the event and was tasked to edit it afterwards.",
         video:
             "https://www.youtube.com/embed/bpJxtZtbGr4"
     },
@@ -43,7 +43,7 @@ const films = [
         title: "SBO 2025-2026 SAN REM",
         type: "DOCUMENTATION",
         description:
-            "A documentation of Springdale's Body Organization giving away resources to the community of San Remegio.",
+            "A documentation of Springdale's Body Organization giving away resources to the community of San Remegio. I was only responsible for editing the editing of this project.",
         video:
             "https://www.youtube.com/embed/bAeY7kMlezk"
     },
@@ -54,7 +54,7 @@ const films = [
         title: "FRIEND REQUEST",
         type: "SHORT FILM",
         description:
-            "A narrative project exploring the dangers of social media while giving me an opportunity to experiment with storytelling beyond commercial work.",
+            "A short film for our Media & Information Literacy project. I was responsible for the script, directing and editing.",
         video:
             "https://www.youtube.com/embed/ZxxvP270K8o"
     }
