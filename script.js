@@ -10,7 +10,7 @@ const films = [
         title: "TITANS RUN",
         type: "ADVERTISEMENT",
         description:
-            "An advertisement I was tasked to create to hype everyone up for Titans Run 2026. My roles included concepting, directing, and editing this project",
+            "An advertisement I was tasked to create to hype everyone up for Titans Run 2026. My roles included concepting, directing, and editing this project.",
         video:
             "https://www.youtube.com/embed/TLa01YFuQ68"
     },
